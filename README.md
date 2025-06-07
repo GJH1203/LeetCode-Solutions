@@ -32,4 +32,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
