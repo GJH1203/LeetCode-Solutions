@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
