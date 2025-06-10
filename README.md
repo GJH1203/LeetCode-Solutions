@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Trie
 |  |
