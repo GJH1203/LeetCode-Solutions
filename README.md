@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,13 +127,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
