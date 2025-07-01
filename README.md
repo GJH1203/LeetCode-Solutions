@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
 ## Trie
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Sliding Window
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
 ## Graph
 |  |
