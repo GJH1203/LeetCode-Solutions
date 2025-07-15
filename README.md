@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
