@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0077-combinations](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
