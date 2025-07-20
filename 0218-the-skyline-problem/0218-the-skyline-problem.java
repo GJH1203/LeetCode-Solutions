@@ -1,29 +1,25 @@
 class Solution {
     public List<List<Integer>> getSkyline(int[][] buildings) {
-        // Iterate over all buildings, for each building = [left, right, height]
-        // add (left, height) and (right, height) to 'edges'.
+        // Iterate over all buildings, for each building i
+        // add (position, i) to edges.
         List<List<Integer>> edges = new ArrayList<>();
         for (int i = 0; i < buildings.length; ++i){
-            edges.add(Arrays.asList(buildings[i][0], buildings[i][2]));
-            edges.add(Arrays.asList(buildings[i][1], -buildings[i][2]));
+            edges.add(Arrays.asList(buildings[i][0], i));
+            edges.add(Arrays.asList(buildings[i][1], i));
         }
         Collections.sort(edges, (a, b) -> {
             return a.get(0) - b.get(0);
         });
         
-        // Initailize two empty priority queues 'live' and 'past',
-        // an empty list 'answer' to store the skyline key points.
-        Queue<Integer> live = new PriorityQueue<>((a, b) -> {
-            return b - a;
-        });
-        Queue<Integer> past = new PriorityQueue<>((a, b) -> {
-            return b - a;
+        // Initailize an empty Priority Queue 'live' to store all the newly 
+        // added buildings, an empty list answer to store the skyline key points.
+        Queue<List<Integer>> live = new PriorityQueue<>((a, b) -> {
+            return b.get(0) - a.get(0);
         });
         List<List<Integer>> answer = new ArrayList<>();
         
-        
         int idx = 0;
-
+        
         // Iterate over all the sorted edges.
         while (idx < edges.size()){
             // Since we might have multiple edges at same x,
@@ -32,36 +28,33 @@ class Solution {
             
             // While we are handling the edges at 'currX':
             while (idx < edges.size() && edges.get(idx).get(0) == currX){
-                // The height of the current building.
-                int height = edges.get(idx).get(1);
+                // The index 'b' of this building in 'buildings'
+                int b = edges.get(idx).get(1);
                 
-                // If this is a left edge, add `height` to 'live'.
-                // Otherwise, add `height` to `past`.
-                if (height > 0){
-                    live.offer(height);
-                } else {
-                    past.offer(-height);
+                // If this is a left edge of building 'b', we
+                // add (height, right) of building 'b' to 'live'.
+                if (buildings[b][0] == currX){
+                    int right = buildings[b][1];
+                    int height = buildings[b][2];
+                    live.offer(Arrays.asList(height, right));
                 }
-                idx++;
+                idx += 1;
             }
-
+            
             // If the tallest live building has been passed,
             // we remove it from 'live'.
-            while (!past.isEmpty() && live.peek().equals(past.peek())) {
-                live.remove();
-                past.remove();
-            }
+            while (!live.isEmpty() && live.peek().get(1) <= currX)
+                live.poll();
             
             // Get the maximum height from 'live'.
-            int currHeight = live.isEmpty() ? 0 : live.peek();
-
-            // If the height changes at 'currX', we add this
-            // skyline key point [currX, max_height] to 'answer'.
-            if (answer.isEmpty() || answer.get(answer.size() - 1).get(1) != currHeight) {
-                answer.add(Arrays.asList(currX, currHeight));
-            }   
-        }
+            int currHeight = live.isEmpty() ? 0 : live.peek().get(0);
             
+            // If the height changes at this currX, we add this
+            // skyline key point [currX, max_height] to 'answer'.
+            if (answer.isEmpty() || answer.get(answer.size() - 1).get(1) != currHeight)
+                answer.add(Arrays.asList(currX, currHeight));
+        }
+        
         // Return 'answer' as the skyline.
         return answer;
     }
