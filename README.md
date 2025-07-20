@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Matrix
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Queue
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +164,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
