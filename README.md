@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0394-decode-string](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
