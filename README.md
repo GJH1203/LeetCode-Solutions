@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Tree
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
