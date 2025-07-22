@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Queue
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
