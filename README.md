@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0804-rotated-digits](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0804-rotated-digits](https://github.com/GJH1203/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
